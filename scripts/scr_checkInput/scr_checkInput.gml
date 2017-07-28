@@ -14,6 +14,15 @@ if (keyboard_check_pressed(vk_escape)) {
 }
 
 // check the mouse click
+//if (mouse_check_button_pressed(mb_left)) {
+	//if (instance_exists(obj_infoBG)) {
+	//	instance_destroy(obj_infoBG);
+	//}	
+//}
+
+
+// check the mouse click
+/*
 if (mouse_check_button(mb_left)) {
 	var inst;
 	inst = instance_position(mouse_x, mouse_y, obj_people);
@@ -38,3 +47,5 @@ if (mouse_check_button(mb_left)) {
 		surface_reset_target();
 	}
 }
+*/
+

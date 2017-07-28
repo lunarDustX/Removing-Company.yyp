@@ -1,8 +1,8 @@
 {
-    "id": "29861023-42e7-4d3f-b981-c1d95b858a54",
+    "id": "0061b845-d994-4770-a57a-ef764bee63a0",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "trash",
+    "name": "scr_createPropertyIcons",
     "IsCompatibility": false,
     "IsDnD": false
 }

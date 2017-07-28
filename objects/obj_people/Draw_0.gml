@@ -6,9 +6,10 @@ draw_self();
 if (peopleState == leaved) exit;
 
 // send-away Cost
-draw_text(x, y-20, "$"+string(sendAwayMoney));
+draw_text(x, y, "$"+string(sendAwayMoney));
 
 // draw properties
+/*
 numberOfProperties = 0;
 for (i = 0; i < totalProperties; i++) {
 	if (property[i]) {
@@ -26,3 +27,4 @@ if (angryValue < 999) {
 if (peopleState == angry) {
 	draw_text(x+sprite_width, y-20, string(angryTime));
 }
+*/

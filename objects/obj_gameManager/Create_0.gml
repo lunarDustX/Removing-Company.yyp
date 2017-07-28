@@ -1,6 +1,6 @@
 /// initialization & globalvars
 // UI layer depth
-depth = -100; 
+depth = topDepth; 
 
 // player state Initialization
 global.day = 1;

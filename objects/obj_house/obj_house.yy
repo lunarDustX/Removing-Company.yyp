@@ -5,16 +5,6 @@
     "name": "obj_house",
     "eventList": [
         {
-            "id": "35bffc28-7e11-426f-932b-e229d4042545",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 5,
-            "eventtype": 6,
-            "m_owner": "dac7f0f0-3297-4e1c-bb3e-5daa008aa61a"
-        },
-        {
             "id": "1a5862c5-e364-413c-9949-de3810fe1752",
             "modelName": "GMEvent",
             "mvc": "1.0",

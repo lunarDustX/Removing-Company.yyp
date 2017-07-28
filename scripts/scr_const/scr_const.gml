@@ -14,3 +14,17 @@
 #macro quiet 1
 #macro angry 2
 #macro superAngry 3
+
+// depth
+#macro topDepth -200
+#macro midDepth -100
+
+// photo
+#macro photoWidth 64
+#macro photoHeight 64
+#macro photoMargin 16
+
+// icon
+#macro iconWidth 16
+#macro iconHeight 16
+#macro iconMargin 8
